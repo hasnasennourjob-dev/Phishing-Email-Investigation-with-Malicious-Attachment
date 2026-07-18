@@ -1,2 +1,3 @@
 # Phishing-Email-Investigation-with-Malicious-Attachment
-Phishing email investigation performed in a Linux virtual machine, including email header analysis, IOC extraction, SPF/DMARC validation, and threat intelligence using VirusTotal and MXToolbox.
+Phishing Email Investigation Lab
+This project documents a phishing email investigation completed in my home SOC lab using a Linux virtual machine while working through a TryHackMe exercise. The objective was to analyze a suspicious email, identify indicators of compromise (IOCs), validate sender authenticity through SPF and DMARC checks, and investigate domains, IP addresses, URLs, and attachments using industry-standard security tools such as VirusTotal, MXToolbox, WHOIS, and DMARCian. This lab demonstrates the investigation process and analytical skills expected of a SOC Level 1 Analyst.
